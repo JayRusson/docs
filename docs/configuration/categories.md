@@ -14,3 +14,7 @@ Members can now create tickets with `/new` and you can [create a panel](../panel
 
 !!! info
 	The `/settings` command can also be used to change the bot's locale (language), embed colours, and to enable optional features such as the close ticket button. Type `/settings set` to see all of the options.
+	
+Useful Tips
+	When using `/settings categories edit` to modify the category's options - Specifically the `opening_questions` please ensure you are using the following format `opening_questions: ["q1", "q2"]` 
+	
